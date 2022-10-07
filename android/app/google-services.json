@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948045805659",
+    "project_id": "lab10-dfacb",
+    "storage_bucket": "lab10-dfacb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948045805659:android:788aa472bc2001f70ee77e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948045805659-1g0oec4cs7soqbkfg5ocqo5eog87v2kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBN4E-_ngVaRu-_4rQKJdg-uOO66pKGz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948045805659-1g0oec4cs7soqbkfg5ocqo5eog87v2kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
